@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Haven</string>
+    <string name="book_haven_logo">Book Haven Logo</string>
+    <string name="start">Start Reading!</string>
+    <string name="arrow">Arrow</string>
+    <string name="book_image">Book Image</string>
+    <string name="book_title">Book Title</string>
+    <string name="connection_error">Connection error</string>
+    <string name="no_results">No results</string>
+    <string name="search">Search for Books…</string>
+    <string name="refresh">Refresh</string>
+    <string name="book_author">Book Author</string>
+    <string name="description">Description</string>
+    <string name="reload">Reload</string>
+    <string name="back_arrow">Back Arrow</string>
+</resources>
